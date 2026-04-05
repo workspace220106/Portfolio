@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Alex Chen",
+    "role": "CEO, Nebula Labs",
+    "text": "Working with this developer was transformative. The 3D portfolio they built for our team exceeded all expectations — smooth, cinematic, and incredibly polished.",
+    "rating": 5
+  },
+  {
+    "name": "Sarah Mitchell",
+    "role": "Design Director, Quantum Studio",
+    "text": "A rare talent who truly understands the intersection of design and engineering. The interactive experiences they create are genuinely best-in-class.",
+    "rating": 5
+  },
+  {
+    "name": "Marcus Johnson",
+    "role": "Product Manager, TechForward",
+    "text": "The attention to micro-interactions and performance optimization is outstanding. Our product launch site saw a 40% increase in engagement thanks to their work.",
+    "rating": 5
+  }
+]

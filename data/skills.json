@@ -1,0 +1,35 @@
+[
+  {
+    "name": "JavaScript",
+    "level": "Expert"
+  },
+  {
+    "name": "TypeScript",
+    "level": "Advanced"
+  },
+  {
+    "name": "React",
+    "level": "Expert"
+  },
+  {
+    "name": "Next.js",
+    "level": "Advanced"
+  },
+  {
+    "name": "Three.js",
+    "level": "Intermediate"
+  },
+  {
+    "name": "React Three Fiber",
+    "level": "Intermediate"
+  },
+  {
+    "name": "Framer Motion",
+    "level": "Advanced"
+  },
+  {
+    "name": "GSAP",
+    "level": "Intermediate"
+  }
+]
+

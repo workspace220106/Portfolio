@@ -1,0 +1,25 @@
+[
+  {
+    "company": "Nebula Labs",
+    "role": "Senior Creative Developer",
+    "duration": "2023 — Present",
+    "location": "Remote / Global",
+    "achievements": [
+      "Designed and built immersive 3D product launches for high-profile brands.",
+      "Led the front-end architecture for cinematic marketing experiences.",
+      "Implemented performance-focused 3D scenes with smooth 60fps interactions."
+    ]
+  },
+  {
+    "company": "Quantum Studio",
+    "role": "Front-End Engineer",
+    "duration": "2020 — 2023",
+    "location": "Berlin, Germany",
+    "achievements": [
+      "Developed interactive dashboards and visual storytelling for complex data.",
+      "Introduced motion design and micro-interactions into the design system.",
+      "Collaborated closely with designers to prototype high-fidelity concepts."
+    ]
+  }
+]
+

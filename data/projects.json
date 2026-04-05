@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Holographic Interface Explorer",
+    "description": "A cinematic WebGL experience that lets users explore a holographic control room with interactive panels and responsive UI.",
+    "techStack": ["Next.js", "React Three Fiber", "GSAP", "Framer Motion"],
+    "github": "https://github.com/your-username/holographic-interface",
+    "liveDemo": "https://your-portfolio-demo.com/holographic-interface"
+  },
+  {
+    "title": "Cinematic Portfolio Engine",
+    "description": "A premium portfolio template with scroll-driven storytelling, parallax layers and 3D scene transitions.",
+    "techStack": ["Next.js", "Three.js", "Framer Motion"],
+    "github": "https://github.com/your-username/cinematic-portfolio",
+    "liveDemo": "https://your-portfolio-demo.com/cinematic-portfolio"
+  },
+  {
+    "title": "Code Nebula Playground",
+    "description": "An interactive playground visualising code structures as floating constellations with real-time interaction.",
+    "techStack": ["React", "Three.js", "Node.js"],
+    "github": "https://github.com/your-username/code-nebula",
+    "liveDemo": "https://your-portfolio-demo.com/code-nebula"
+  }
+]
+

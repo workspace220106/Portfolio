@@ -1,0 +1,22 @@
+<svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="faceGrad" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+      gradientTransform="translate(160 140) rotate(90) scale(120)">
+      <stop offset="0" stop-color="#FBFEFB" />
+      <stop offset="1" stop-color="#947EB0" />
+    </radialGradient>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="320" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2F0A85" />
+      <stop offset="1" stop-color="#222725" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="320" height="320" rx="64" fill="url(#bgGrad)" />
+  <circle cx="160" cy="140" r="96" fill="url(#faceGrad)" />
+  <circle cx="126" cy="132" r="10" fill="#222725" />
+  <circle cx="194" cy="132" r="10" fill="#222725" />
+  <path d="M120 196C132 214 146 222 160 222C174 222 188 214 200 196" stroke="#222725" stroke-width="8"
+    stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M72 264C92 230 124 212 160 212C196 212 228 230 248 264" stroke="#FBFEFB" stroke-width="10"
+    stroke-linecap="round" stroke-opacity="0.75" />
+</svg>
+
